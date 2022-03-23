@@ -1,0 +1,67 @@
+#i1{
+    height: 70vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding:1rem;
+    color:white;
+    background-image: url(https://static.wikia.nocookie.net/naruto/images/6/67/%C5%8Cnoki.png/revision/latest?cb=20181203071043);
+}
+#i2{
+    height: 70vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:1rem;
+    font-size: 40px;
+    color:white;
+    background-image: url(https://pm1.narvii.com/6467/98febc4d85a6883854f46cc60f61068d63cb6a77_hq.jpg);
+    
+}
+#i3{
+height:70vh ;
+background-size: cover;
+background-attachment: fixed;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 40px;
+color:white;
+padding:1rem;
+background-image: url(https://c4.wallpaperflare.com/wallpaper/311/58/344/anime-naruto-akatsuki-naruto-deidara-naruto-wallpaper-preview.jpg);
+}
+#i4{
+    height:70vh ;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding:1rem;
+    color:white;
+    background-image: url(https://wallpaperaccess.com/full/799213.jpg);
+}
+#i5{
+    height:70vh ;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding:1rem;
+    color:white;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzM_2XiSk94L9wuQ_XzyNNOLwmPRSeY1JHfB1ecdVxuwhWk7ldrCgEClqApHMfBS3NDo&usqp=CAU);
+}
+.contact{
+    background-image:url(https://images.alphacoders.com/117/thumb-1920-1176885.png) ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
